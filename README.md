@@ -6,6 +6,6 @@ After a year of sabbatical, awesome motorcycle trips, I am back to bit crunching
 - 🌱 I’m currently learning Rust
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: Twitter is a good place to start with, DM me.
+- 📫 How to reach me: [Twitter](http://twitter.com/bahadircambel) is a good place to start with, DM me.
 - ⚡ Fun fact: 
 
