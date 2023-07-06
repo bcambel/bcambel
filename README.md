@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+After a year of sabbatical, awesome motorcycle trips, I am back to bit crunching on 💻s 
+
 - 🔭 I’m currently working on WinnerSt, tools for Retail investors to build Discounted Cashflow Models
 - 🌱 I’m currently learning Rust
 - 🤔 I’m looking for help with ...
